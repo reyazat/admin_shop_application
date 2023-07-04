@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "743697512140",
+    "project_id": "smart-shop-admin",
+    "storage_bucket": "smart-shop-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743697512140:android:081ce21eb7cad1883ff469",
+        "android_client_info": {
+          "package_name": "net.smartysoftware.smartshopadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743697512140-0anlonitg0hgvsr9l8tnv25tkie8gsos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmbsrYWH-FIf_n_JfAQIjpa-mlHyM1yuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743697512140-0anlonitg0hgvsr9l8tnv25tkie8gsos.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "743697512140-dbpsc78jbal9scnosd970uagiqf1lpmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.smartysoftware.smartshopadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
